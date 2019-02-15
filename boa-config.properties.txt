@@ -1,3 +1,0 @@
-message = Welocome
-key = fdksajk
-value = 4837625
